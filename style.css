@@ -7,6 +7,11 @@ body{
     margin: 0px;
 }
 
+#Fondo{
+    height: 100%;
+    width: 100%;
+}
+
 #paloma {
     position:absolute;
     top:20px;
