@@ -3,11 +3,14 @@
     width: 100%;
 }
 
-.cls-1{
-    height: 100%;
-    width: 100%;
-}
-
 body{
     margin: 0px;
+}
+
+.paloma {
+    position:absolute;
+    top:20px;
+    left:20px;
+    height: 10%;
+    width: 10%;
 }
