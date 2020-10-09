@@ -7,10 +7,55 @@ body{
     margin: 0px;
 }
 
-.paloma {
+#paloma {
     position:absolute;
     top:20px;
     left:20px;
     height: 10%;
     width: 10%;
 }
+
+#mujer{
+    position:absolute;
+    text-align: center;
+    top:10%;
+    height: 30%;
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.nombre{
+    font-family: oswald;
+    font-style: bold;
+    font-size: 500%;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.edad{
+    font-family: oswald;
+    font-style: bold;
+    font-size: 100%;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: white;
+
+}
+
+.descripcion{
+    font-family: arial;
+    font-style: normal;
+    font-size: 100%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.line{
+    width:100%; /*or whatever width you want the effect of <hr>*/
+    height: 2px;
+    background-color: white;
+    margin-bottom: 5%;
+
+ }
