@@ -57,7 +57,7 @@
 
 .id_8#paloma {
     position:absolute;
-    top:90px;
+    top:100px;
     left:80px;
     height: 7%;
     width: 5%;
@@ -65,18 +65,18 @@
 
 .id_9#paloma {
     position:absolute;
-    top:80px;
-    left:80px;
+    top:200px;
+    left:10px;
     height: 7%;
     width: 5%;
 }   
 
 .id_10#paloma {
     position:absolute;
-    top:80px;
-    left:80px;
-    height: 7%;
-    width: 5%;
+    top:400px;
+    left:300px;
+    height: 11%;
+    width: 7%;
 }   
 
 .id_11#paloma {
